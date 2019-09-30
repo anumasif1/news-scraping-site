@@ -10,8 +10,6 @@ A web app that lets users view and leave comments on the latest news using Mongo
 This application is base on MVC model and uses handlebars for view.
 
 <pre>
-
-**-------------------------------------------------------------------**\
         -
 **NPM Packages Installed:**
 * express
@@ -22,7 +20,6 @@ This application is base on MVC model and uses handlebars for view.
 * morgan logger
 * body-parser
 * request
-**-------------------------------------------------------------------**
 
 </pre>
 
